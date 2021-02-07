@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+}
+.logo{
+    text-align: center;
+}
+.logo img{
+   height: 100px;
+   width: 100px; 
+}
+#title-full{
+    color: #363958;
+    font-weight: 700;
+}
+#title-monster{
+    color: #FA804C;
+}
+
+#input-meal-name{
+    background-color: #F8F7F5
+}
+
+#search-btn{
+    color: white;
+    background-color: #F06C4E;
+}
+
+#warning-text{
+    color:  #e91818;
+    padding-left: 2%;
+    height: 100%;
+    font-size: 25px;
+}
+
+
+.meal-image{
+    width: 100%;
+    
+}
+
+.meal-title{
+    text-align: center;
+    margin-top: 10px;
+}
+.meal-card{
+    border-radius: 10px;
+    background-color: #F8F7F5;
+    height: 100%;
+    overflow: hidden;
+    box-shadow:1px 3px 10px gray;
+    margin: 10px;
+}
+
+.meal-details-image{
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+}
+
+#meal-details{
+    display: none;
+    margin-bottom: 15px;
+    background-color: #F8F7F5;
+    padding: 20px;
+    border-radius: 10px;
+}
+li{
+    font-size: large;
+}
+
+ul{
+    list-style-type:none;
+}
+.instructions{
+    text-align: justify;
+}
+
+.icon-color{
+    color: #F06C4E;
+}
+.meal-details-title{
+    margin-top: 15px;
+}
